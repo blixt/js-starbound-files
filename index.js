@@ -1,7 +1,5 @@
-module.exports = {
-  blockfile: require('./lib/blockfile'),
-  btreedb: require('./lib/btreedb'),
-  package: require('./lib/package'),
-  sbon: require('./lib/sbon'),
-  world: require('./lib/world')
-};
+exports.BlockFile = require('./lib/blockfile');
+exports.BTreeDB = require('./lib/btreedb');
+exports.Package = require('./lib/package');
+exports.SbonReader = require('./lib/sbonreader');
+exports.World = require('./lib/world');

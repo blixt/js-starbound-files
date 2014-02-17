@@ -15,6 +15,6 @@ var starbound = require('starbound-files');
 
 // Assume file is a File object pointing to a .pak file.
 var file = ...;
-var pak = starbound.package.open(file);
+var pak = starbound.Package.open(file);
 console.log('All files in the .pak file:', pak.getIndex());
 ```
