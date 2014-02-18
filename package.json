@@ -1,6 +1,6 @@
 {
   "name": "starbound-files",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A tool for working with Starbound's file formats.",
   "author": "Blixt <me@blixt.org>",
   "license": "MIT",
