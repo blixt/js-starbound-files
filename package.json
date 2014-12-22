@@ -13,6 +13,7 @@
     "url": "https://github.com/blixt/js-starbound-files.git"
   },
   "dependencies": {
+    "pako": "^0.2.5",
     "sha256": "~0.1.1",
     "starbound-sha256": "~0.1.0"
   },
